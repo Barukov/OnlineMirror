@@ -1,0 +1,4 @@
+name: OnlineMirror
+version: 1.0
+main: me.server.OnlineMirror
+api-version: 1.20
